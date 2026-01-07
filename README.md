@@ -13,9 +13,10 @@ Los KPI's definidos para este forecast son:
 
 
 ## DASHBOARD
-
+Dashboard desarrollado en Power BI. Visualización interactiva restringida por políticas institucionales. 
 El dashboard integra indicadores clave, análisis histórico y escenarios de forecast en una sola vista, facilitando la comprensión del desempeño pasado y la proyección futura del negocio:
 
+![Sales_forecast](Sales_forecast.png)
 
 
 ## RECOMENDACIONES
