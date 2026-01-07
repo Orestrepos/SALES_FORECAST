@@ -20,6 +20,9 @@ El dashboard integra indicadores clave, análisis histórico y escenarios de for
 
 
 ## RECOMENDACIONES
-El amplio rango entre el escenario optimista y pesismista indica un alto nivel de incertidumbre, por lo que se sugiere tomar como base para la planeación comercial es el escenario esperado para establecer metas más realistas. En ese sentido, es conveniente tomar como referencia el escenario pesimista para definir acciones preventivas como el control de costos, la priorización de productos rentables y la optimización de campañas comerciales. En cuanto al escenario optimista, puede servir de base para diseñar estrategias comerciales flexibles que permitan escalar operaciones en caso de que se materialice; como por ejemplo refuerzo de inventarios, campañas de marketing focalizadas y expansión de canales de venta.
-Todo esto, enmarcado en monitoreo periódico del desempeño real frente al forecast, ajustando las proyecciones y estrategias conforme se disponga de nueva información.
+El amplio rango entre los escenarios optimista y pesimista evidencia un alto nivel de incertidumbre, por lo que se recomienda utilizar el escenario esperado como base para la planeación comercial y el establecimiento de metas realistas. 
+
+En este contexto, el escenario pesimista puede servir como referencia para definir acciones preventivas, tales como el control de costos, la priorización de productos más rentables y la optimización de las campañas comerciales. Por su parte, el escenario optimista constituye un insumo para diseñar estrategias comerciales flexibles que permitan escalar las operaciones en caso de que dicho escenario se materialice, como el refuerzo de inventarios, la implementación de campañas de marketing focalizadas y la expansión de los canales de venta. 
+
+Todo lo anterior debe estar acompañado de un monitoreo periódico del desempeño real frente al forecast, que permita ajustar oportunamente las proyecciones y las estrategias conforme se disponga de nueva información.
 
